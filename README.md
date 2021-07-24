@@ -44,10 +44,16 @@
 
 
 
-  <div align="center">   
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a01152a)](https://solved.ac/a01152a/)
-  
+  <div align="center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=a01152a)](https://velog.io/@a01152a)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roadonep&layout=compact)](https://github.com/RoadoneP)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a01152a)](https://solved.ac/a01152a/)
+	
 </div>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?height=150&type=waving&color=timeGradient&section=footer)
