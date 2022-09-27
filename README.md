@@ -45,7 +45,6 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roadonep&layout=compact)](https://github.com/RoadoneP)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a01152a)](https://solved.ac/a01152a/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={a01152a})](https://solved.ac/{a01152a})
 	
 </div>
 
