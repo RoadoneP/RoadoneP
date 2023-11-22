@@ -23,10 +23,8 @@
 
 </br>
 <h3 align="center">
-🌱 Connect with me 🌱
 </h3></br>
 <p align="center">
-<a href="https://instagram.com/road_1.p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 <a href="mailto:a01152a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 &nbsp
 <a href="https://velog.io/@a01152a"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
