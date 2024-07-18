@@ -22,7 +22,6 @@
 
 
 ## 📊 Github Stats
-<!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoadoneP&layout=compact&theme=dracula)  ![RoadoneP's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoadoneP&show_icons=true&theme=dracula)
 
 ## 🛠️ Stacks
