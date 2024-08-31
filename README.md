@@ -8,9 +8,9 @@
    - <a href="mailto:a01152a@g.skku.edu"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> a01152a@g.skku.edu
 
 
-## 📄 My CV (Resume)
+## 📄 My Homepage (Resume)
 
-[![CV Thumbnail](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Gilhan%20Park&fontSize=90)](https://roadonep.notion.site/)
+[![CV Thumbnail](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Gilhan%20Park&fontSize=90)](https://roadonep.me)
 
 
 ## 📚 Publications
