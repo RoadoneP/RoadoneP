@@ -15,7 +15,7 @@
 
 ## 📚 Publications
 
-> **Mitigating Background Shift in Class-Incremental Semantic Segmentation** [[Code]](https://github.com/RoadoneP/ECCV2024_MBS)  
+> **Mitigating Background Shift in Class-Incremental Semantic Segmentation** [[Code]](https://github.com/RoadoneP/ECCV2024_MBS)[[Paper]](https://arxiv.org/abs/2407.11859)     
 > *Gilhan Park, WonJun Moon, SuBeen Lee, Tae-Young Kim, and Jae-Pil Heo*  
 > **European Conference on Computer Vision (ECCV), 2024** 
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 </p>
 
-## 🔧 Etc
+<!-- ## 🔧 Etc 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=a01152a)](https://velog.io/@a01152a)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a01152a)](https://solved.ac/a01152a/)
-
+-->
